@@ -1,5 +1,5 @@
 // Projéto: Contador Geiger Arduino.
-// Autor: Wenderson Rodrigues Fialho da Silva.
+// Autor: Wenderson Rodrigues F. da Silva.
 // Data: 18/12/2021
 // Email: wenderson.f@ufv.br
 
